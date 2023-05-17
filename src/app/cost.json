@@ -1,0 +1,35 @@
+[{
+            "sku": "117",
+            "effectiveDate": "2022-10-20",
+            "primeCostPerCase": 20.09,
+            "foreignPrimeCostPerCase": 15.09,
+            "currencyLabel": "CAD",
+            "currencyRate": 1,
+            "currencyEffectiveDate": "2022-09-10",
+            "dutyPaidCostPerCase": 20.09,
+            "domesticChargesPerCase": 0,
+            "estimatedPricePerSU": 12.22,
+            "costOnly": "NO",
+            "basisNumber": "A123456",
+            "comment": "Reason for cost change",
+            "externalReferenceID": "1aa3fe18-83dd-4591-a7d5-0ac61dffb08c",
+            "lastUpdatedBy": "kovid.sehgal@bcldb.ca"
+        },
+        {
+            "sku": "118",
+            "effectiveDate": "2022-10-10",
+            "primeCostPerCase": 30.09,
+            "foreignPrimeCostPerCase": 35.09,
+            "currencyLabel": "USD",
+            "currencyRate": 1.33,
+            "currencyEffectiveDate": "2022-09-20",
+            "dutyPaidCostPerCase": 30.09,
+            "domesticChargesPerCase": 3,
+            "estimatedPricePerSU": 32.22,
+            "costOnly": "YES",
+            "basisNumber": "B123456",
+            "comment": "Cost change",
+            "externalReferenceID": "1aa3fe18-83dd-4591-a7d5-hjkgjehju",
+            "lastUpdatedBy": "sehgal.kovid@bcldb.com"
+        }
+]
